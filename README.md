@@ -5,7 +5,6 @@ This does the following things:-
 *  Gives the CSS property for that background
 
 
-![](https://github.com/Asrasadik/Asrasadik.github.io/blob/master/images/Screenshot%20(583).png) 
+<img src="https://github.com/Asrasadik/Asrasadik.github.io/blob/master/images/Screenshot%20(583).png" height=500>
 
-
-![](https://github.com/Asrasadik/Asrasadik.github.io/blob/master/images/Screenshot%20(585).png)
+<img src="https://github.com/Asrasadik/Asrasadik.github.io/blob/master/images/Screenshot%20(585).png" height=500>
